@@ -34,3 +34,6 @@ function getItems<T>(items:T[]) : T[] {
 }
 let numList2 = getItems<number>([1,2,3,4,5]);
 console.log(numList2); // [1, 2, 3, 4, 5]
+
+let strList = getItems<string>(["John","Doe","Jane"]);
+console.log(strList); // ["John", "Doe", "Jane"]
