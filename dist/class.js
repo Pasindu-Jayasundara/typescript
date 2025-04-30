@@ -51,3 +51,4 @@ console.log(john); // Employee { id: 1, name: 'John Doe', address: '123 Main St'
 console.log(john.Name); // John Doe
 console.log(john.NameWithAddress); // John Doe stays at 123 Main St
 console.log(john.Id); // 1
+//# sourceMappingURL=class.js.map
